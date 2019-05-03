@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding :0;
+    background-color: azure;
+    color : #2d2323;
+}
+
+.Header2 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
